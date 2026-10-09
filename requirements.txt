@@ -1,0 +1,14 @@
+instructor
+jupyter
+numpy
+openai
+pandas
+pydantic
+PyPDF2
+python-docx
+python-magic
+requests
+scikit-learn
+sentence-transformers
+tqdm
+typing-extensions
